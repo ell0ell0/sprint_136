@@ -10,7 +10,7 @@ section {
     position: absolute;
     top: -100%;
     left: -50%;
-	width:4000px;
+    width:4000px;
     height:8000px;
     background: #57d0b5; /* Old browsers */
     background: -moz-linear-gradient(-45deg,  #57d0b5 0%, #00b3e9 30%); /* FF3.6+ */
@@ -44,10 +44,10 @@ section img {
     animation: scroller_contact 8s ease-in-out 1.5s infinite alternate;
 }
 .scroller_directors {
-    -webkit-animation: scroller_directors 6s ease-in-out 1.5s infinite alternate;
-    -moz-animation: scroller_directors 6s ease-in-out 1.5s infinite alternate;
-    -o-animation: scroller_directors 6s ease-in-out 1.5s infinite alternate;
-    animation: scroller_directors 6s ease-in-out 1.5s infinite alternate;
+    -webkit-animation: scroller_directors 4s ease-in-out 1.5s infinite alternate;
+    -moz-animation: scroller_directors 4s ease-in-out 1.5s infinite alternate;
+    -o-animation: scroller_directors 4s ease-in-out 1.5s infinite alternate;
+    animation: scroller_directors 4s ease-in-out 1.5s infinite alternate;
 }
 .scroller_news {
     -webkit-animation: scroller_news 10s ease-in-out 1.5s infinite alternate;
@@ -69,7 +69,7 @@ h5 {
 }
 
 .border {
-	-webkit-text-stroke: 2px black;
+    -webkit-text-stroke: 2px black;
 }
 
 #outlines {
